@@ -4,14 +4,13 @@
 
 <div align="center">
   <a href="https://github.com/pedroosaint">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=%E2%9C%A8+Hello+World!!+%F0%9F%91%8B;Systems+Development+Student+%F0%9F%8E%93;Web+%E2%80%A2+Python+%E2%80%A2+Databases+%E2%80%A2+Embedded;Always+building+the+next+project+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=%E2%9C%A8+Hello+World!!+%F0%9F%91%8B;Systems+Development+Student+%F0%9F%8E%93;Web+%E2%80%A2+Python+%E2%80%A2+Databases+%E2%80%A2+Arduino;Always+building+the+next+project+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pedroosaint&label=Profile%20Views&color=142850&style=for-the-badge" alt="views" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpedroosaint&query=%24.public_repos&label=Repositories&style=for-the-badge&logo=github&color=1E5EFF&labelColor=0B1020" alt="repositories" />
   <img src="https://img.shields.io/github/followers/pedroosaint?label=Followers&style=for-the-badge&logo=github&color=38BDF8&labelColor=0B1020" alt="followers" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpedroosaint&query=%24.following&label=Following&style=for-the-badge&logo=github&color=1E5EFF&labelColor=0B1020" alt="following" />
@@ -24,14 +23,15 @@
 
 I'm a **Systems Development student** passionate about turning ideas into working code. I'm studying to become a developer, and I'm always practicing: building projects, solving problems and learning something new with every commit.
 
-I work with **Java, Python, HTML, CSS and JavaScript**, and I'm comfortable with **SQL** for creating, modeling and querying databases. I also use **Git, GitHub and Git Bash** to version and share my projects.
+I work with **Java, Python, HTML, CSS and JavaScript**, and I'm comfortable with **SQL** for creating, modeling and querying databases. I also build embedded projects with **Arduino**, and I use **Git, GitHub and Git Bash** to version and share my projects.
 
 ```js
 const pedro = {
   username: "pedroosaint",
   role: "Systems Development student",
   focus: ["Web", "Python", "Databases", "Embedded Systems"],
-  skills: ["Java", "Python", "HTML", "CSS", "JavaScript", "SQL", "Git"],
+  skills: ["Java", "Python", "HTML", "CSS", "JavaScript", "SQL", "Arduino", "Git"],
+  tools: ["VS Code", "IntelliJ IDEA", "MySQL Workbench", "brModelo", "Arduino IDE", "Git Bash"],
   currently: "studying, building and learning",
   motto: "Code. Break. Fix. Repeat.",
 };
@@ -44,7 +44,7 @@ const pedro = {
 * 🌐 **Web Development**
 * 🐍 **Programming**
 * 🗄️ **Databases**
-* 🔌 **Embedded Systems**
+* 🔌 **Embedded Systems (Arduino)**
 * 💡 **Technology & Innovation**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:142850,50:1E5EFF,100:38BDF8&height=3" width="100%" alt="divider" />
@@ -52,7 +52,7 @@ const pedro = {
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,bash,vscode&perline=10" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,arduino,git,github,bash&perline=10" alt="skills" />
   <br><br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -60,9 +60,24 @@ const pedro = {
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Git%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:142850,50:1E5EFF,100:38BDF8&height=3" width="100%" alt="divider" />
+
+## 🧰 Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL%20Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/brModelo-1E5EFF?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:142850,50:1E5EFF,100:38BDF8&height=3" width="100%" alt="divider" />
